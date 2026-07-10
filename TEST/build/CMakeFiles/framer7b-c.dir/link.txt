@@ -1,2 +1,0 @@
-/usr/bin/ar qc libframer7b-c.a "CMakeFiles/framer7b-c.dir/framer7b.c.o"
-/usr/bin/ranlib libframer7b-c.a

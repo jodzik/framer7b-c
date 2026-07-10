@@ -1,6 +1,0 @@
-/workdir/conduct_meter/src/lib/framer7b-c/TEST/build/CMakeFiles/framer7b-c.dir
-/workdir/conduct_meter/src/lib/framer7b-c/TEST/build/CMakeFiles/edit_cache.dir
-/workdir/conduct_meter/src/lib/framer7b-c/TEST/build/CMakeFiles/rebuild_cache.dir
-/workdir/conduct_meter/src/lib/framer7b-c/TEST/build/TEST/CMakeFiles/framer7b_test.dir
-/workdir/conduct_meter/src/lib/framer7b-c/TEST/build/TEST/CMakeFiles/edit_cache.dir
-/workdir/conduct_meter/src/lib/framer7b-c/TEST/build/TEST/CMakeFiles/rebuild_cache.dir
