@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/framer7b_test.dir/test.c.o -o framer7b_test  ../libframer7b-c.a 
