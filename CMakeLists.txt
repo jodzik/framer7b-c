@@ -12,7 +12,7 @@ else()
     target_sources(framer7b-c PRIVATE ${SRC})
     target_include_directories(framer7b-c PUBLIC $<BUILD_INTERFACE:${CMAKE_CURRENT_SOURCE_DIR}>)
 
-    target_compile_options(framer7b-c PRIVATE -Werror -Wno-attributes)
+    target_compile_options(framer7b-c PRIVATE -Wall -Wextra -Werror -Wno-missing-field-initializers -Wno-unused-value -Wno-unused-function -Wno-missing-braces)
 
     option(BUILD_TESTS "Build tests" OFF)
     if(BUILD_TESTS)

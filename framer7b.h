@@ -5,7 +5,7 @@
 #include <stdbool.h>
 
 /// Вычислить размер фрейма, который будет создан для in_data_size данных.
-#define FRAMER7B_FRAME_SIZE(in_data_size) (((in_data_size * 8 + 6) / 7) + 2)
+#define FRAMER7B_FRAME_SIZE(in_data_size) ((((in_data_size) * 8 + 6) / 7) + 2)
 
 typedef struct Framer7bReceiver {
     uint8_t* buf;
